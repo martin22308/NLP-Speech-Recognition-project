@@ -1,0 +1,16 @@
+Package explanations:
+SpeechRecognition - Voice recognition
+
+gTTS - Google Text-to-Speech
+
+pyttsx3 - Offline text-to-speech
+
+pygame - Audio playback
+
+google-generativeai - Gemini AI API
+
+python-dotenv - Environment variables (.env file)
+
+PyAudio - Microphone access (required for SpeechRecognition)
+
+comtypes/pypiwin32/pywin32 - Windows dependencies for pyttsx3
